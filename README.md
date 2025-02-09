@@ -1,4 +1,5 @@
 # 🪨📄✂️ "Rock - Paper - Scissors" mini-game
+### Made by [Milen Nikolov](https://www.linkedin.com/in/milen-nikolov-62455034b/)
 ---
 <img align="center" width="1000" height="500" src="https://media.geeksforgeeks.org/wp-content/uploads/20230802174130/Rock-Paper-Scissor.webp">
 
